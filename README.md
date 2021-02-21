@@ -49,7 +49,7 @@ public class UserController {
 
 ## Features
 
-* Front and backend user data communication
+* Backend java user data passed to frontend
 
 ## Status
 
