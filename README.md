@@ -1,6 +1,6 @@
 # :zap: Spring Java Angular Interface
 
-* Angular client with Java Spring boot back-end
+* Angular client with Java Spring boot back-end used to display simple list of users
 
 **\* Note: to open web links in a new window use: _ctrl+click on link_**
 
@@ -17,7 +17,7 @@
 
 ## General info
 
-* Displays Java back end user data in a front end Angular list
+* Displays Java back end user data in a front end Angular list.
 
 ## Technologies
 
@@ -26,8 +26,8 @@
 
 ## Setup
 
-* change directory to `/springboot-backend` and run java code
-* Run `ng serve` from `/angular-frontend`
+* Backend: change directory to `/springboot-backend` and run java code
+* Frontend: run `ng serve` from `/angular-frontend`
 
 ## Code Examples
 
@@ -54,15 +54,15 @@ public class UserController {
 ## Status
 
 * Status: Working
-* To-Do: Complete
+* To-Do: Nothing
 
 ## Inspiration
 
-* [Angular + Spring Boot REST API Example Tutorial | Java Guides](https://www.youtube.com/watch?v=_rMAnZIcRiU&t=3s)
+* [Youtube: Angular + Spring Boot REST API Example Tutorial | Java Guides](https://www.youtube.com/watch?v=_rMAnZIcRiU&t=3s)
 
 ## Screenshots
 
-* TBA
+![Example screenshot](./img/java-angular.png)
 
 ## Contact
 
