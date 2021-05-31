@@ -1,8 +1,12 @@
 # :zap: Spring Java Angular Interface
 
 * Angular client with Java Spring boot back-end used to display simple list of users
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-**\* Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/springboot-angular-interface?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/springboot-angular-interface?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/springboot-angular-interface?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/springboot-angular-interface?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -21,7 +25,7 @@
 
 ## Technologies
 
-* [Angular framework v11](https://angular.io/)
+* [Angular framework v12](https://angular.io/)
 * [Spring Java Tools v4](https://spring.io/tools)
 
 ## Setup
@@ -53,7 +57,7 @@ public class UserController {
 
 ## Status
 
-* Status: Working
+* Status: Working. Updated may 2021.
 * To-Do: Nothing
 
 ## Inspiration
@@ -64,6 +68,10 @@ public class UserController {
 
 ![Example screenshot](./img/java-angular.png)
 
-## Contact
+## :file_folder: License
 
-* Repository created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* This project is licensed under the terms of the MIT license.
+
+## :envelope: Contact
+
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
